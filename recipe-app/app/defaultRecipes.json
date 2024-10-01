@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pancakes",
+    "ingredients": ["flour", "milk", "eggs"],
+    "instructions": "Mix ingredients and bake",
+    "category": "breakfast"
+  },
+  {
+    "name": "Pizza",
+    "ingredients": ["flour", "tomato", "cheese"],
+    "instructions": "Mix ingredients and bake",
+    "category": "dinner"
+  },
+  {
+    "name": "Ice cream",
+    "ingredients": ["milk", "sugar"],
+    "instructions": "Mix ingredients and freeze",
+    "category": "dessert"
+  }
+]
